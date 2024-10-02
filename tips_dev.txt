@@ -1,0 +1,2 @@
+The second developer provided some tips for developing the project.
+No need to merge if it is not necessary.
