@@ -1,3 +1,4 @@
 Some additional information for a second developer have been added.
 The developer will keep working on this file.
 Some changes were made to this file from the remote repo.
+This line was added through the ide.
