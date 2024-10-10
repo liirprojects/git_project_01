@@ -1,5 +1,6 @@
-﻿################################################################################
+################################################################################
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/.vs/git_project_01/FileContentIndex
+.vs/
+.vs/git_project_01/FileContentIndex
